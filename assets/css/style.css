@@ -156,4 +156,12 @@ img[alt="enno"] {
     .company-info dd {
         margin-left: 1em;
     }
+
+    h1 {
+        font-size: 28px; /* モバイル表示時のH1サイズを調整 */
+    }
+
+    img[alt="enno"] {
+        width: 100px; /* モバイル表示時の画像ロゴサイズを調整 */
+    }
 }
